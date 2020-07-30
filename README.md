@@ -1,6 +1,6 @@
-# 👋 Welcome to my profile, I'm Alex!
+# Welcome to my profile, I'm Alex! 👋
 
-## 🧰 What I know and use:
+## What I know and use 🧰
 ### HTML, CSS, JS, Dart, Python | React, React Native, Flutter, NodeJS
 
 - 👨🏽‍💻 I’m currently working on a music player app.
