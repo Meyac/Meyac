@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋 Welcome to my profile, I'm Alex!
 
-<!--
-**Meyac/Meyac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 What I know and use:
+### HTML, CSS, JS, Dart, Python | React, React Native, Flutter, NodeJS
 
-Here are some ideas to get you started:
+- 👨🏽‍💻 I’m currently working on a music player app.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Flutter.
+
+- 🤝 I’m looking to collaborate on fun projects.
+
+- 🤔 I’m looking for help with database architecture.
+- 💬 Ask me about anything Apps, Websites, Backend or anything you want.
+- 😄 Pronouns: He/Him
