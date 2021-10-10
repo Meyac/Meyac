@@ -5,9 +5,9 @@
 
 - 👨🏽‍💻 I’m currently working on a music player app.
 
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Firebase.
 
-- 🤝 I’m looking to collaborate on fun projects.
+- 🤝 I’m looking forward to collaborating and working on fun projects.
 
 - 🤔 I’m looking for help with database architecture.
 - 💬 Ask me about anything Apps, Websites, Backend or anything you want.
